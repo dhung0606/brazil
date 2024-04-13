@@ -1,0 +1,102 @@
+{
+   "AK":{
+      "capital":"São Paulo",
+      "lat":"-23.5475",
+      "long":" -46.63611"
+   },
+   "AZ":{
+      "capital":"Rio de Janeiro",
+      "lat":"-22.90642",
+      "long":"-43.18223"
+   },
+   "CA":{
+      "capital":"Salvador",
+      "lat":"-12.97111",
+      "long":"-38.51083"
+   },
+   "CO":{
+      "capital":"Fortaleza",
+      "lat":"-3.71722",
+      "long":"-38.54306"
+   },
+   "CT":{
+      "capital":"Belo Horizonte",
+      "lat":"-19.92083",
+      "long":"-43.93778"
+   },
+   "DE":{
+      "capital":"Brasília",
+      "lat":"-15.77972",
+      "long":"-47.92972"
+   },
+   "FL":{
+      "capital":"Curitiba",
+      "lat":"-25.42778",
+      "long":"-49.27306"
+   },
+   "GA":{
+      "capital":"Manaus",
+      "lat":"-3.10194",
+      "long":" -60.025"
+   },
+   "HI":{
+      "capital":"Recife",
+      "lat":"-8.05389",
+      "long":"-34.88111"
+   },
+   "ID":{
+      "capital":"Belém",
+      "lat":"-1.45583",
+      "long":"-48.50444"
+   },
+   "IL":{
+      "capital":"Porto Alegre",
+      "lat":"-30.03283",
+      "long":"-51.23019"
+   },
+   "IN":{
+      "capital":"Goiânia",
+      "lat":"-16.67861",
+      "long":"-49.25389"
+   },
+   "KS":{
+      "capital":"Guarulhos",
+      "lat":"-23.46278",
+      "long":"-46.53333"
+   },
+   "KY":{
+      "capital":"Campinas",
+      "lat":"-22.90556",
+      "long":"-47.06083"
+   },
+   "LA":{
+      "capital":"Nova Iguaçu",
+      "lat":"-22.75917",
+      "long":"-43.45111"
+   },
+   "MO":{
+      "capital":"Maceió",
+      "lat":"-9.66583",
+      "long":"-35.73528"
+   },
+   "MT":{
+      "capital":"São Luís",
+      "lat":"-2.52972",
+      "long":"-44.30278"
+   },
+   "NH":{
+      "capital":"Duque de Caxias",
+      "lat":"-22.78556",
+      "long":"-43.31167"
+   },
+   "NJ":{
+      "capital":"Natal",
+      "lat":"-5.795",
+      "long":"-35.20944"
+   },
+   "NM":{
+      "capital":"Teresina",
+      "lat":"-5.08917",
+      "long":"-42.80194"
+   }
+}
